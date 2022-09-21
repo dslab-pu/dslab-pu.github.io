@@ -2,7 +2,6 @@
 isPage: false
 title: Home
 sidebar: true
-title: Members
 date: 17-Sep-22
 featured: false
 draft: false

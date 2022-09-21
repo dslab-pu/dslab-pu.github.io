@@ -1,5 +1,5 @@
 baseURL: https://dslab-pu.github.io/
-title: Data Science Lab - Phenikaa University
+title: DSLab
 theme: github.com/razonyang/hugo-theme-bootstrap
 copyright: 'Copyright © 2021-{year} DSLab Phenikaa University. All Rights Reserved.'
 defaultContentLanguage: en

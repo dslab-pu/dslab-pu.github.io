@@ -13,7 +13,7 @@ keywords: Lab, Researcher, Team, Paper
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
 
-# logo: images/logo.png # Logo image. Default to images/logo.webp.
+logo: images/dslab.png # Logo image. Default to images/logo.webp.
 # logo: false # Disable Logo
 brand: Home
 
