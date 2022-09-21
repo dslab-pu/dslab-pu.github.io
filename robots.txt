@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dslab-pu.github.io/sitemap.xml
