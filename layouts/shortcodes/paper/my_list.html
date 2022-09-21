@@ -1,0 +1,39 @@
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+</style>
+
+<h2>HTML Table</h2>
+<br>
+<br>
+
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Capital</th>
+		<th>Latitude</th>
+	</tr>
+	{{ range .Site.Data.us_state }}
+	<tr>
+		<td>{{.name}}</td>
+		<td>{{.capital}}</td>
+		<td>{{.lat}}</td>
+	</tr>
+	{{ end }}
+</table>
+
+
+

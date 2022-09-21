@@ -1,0 +1,47 @@
+{
+	"001": {
+		"id": 1,
+		"title": "Efficient time-series forecasting using neural network and opposition-based coral reefs optimization",
+		"authors": "Thieu Nguyen, Tu Nguyen, Binh Minh Nguyen, Giang Nguyen",
+		"journal": "International Journal of Computational Intelligence Systems",
+		"ranking": "Q1",
+		"impact_factor": 2.153,
+		"cite_score": 4.51,
+		"pub_date": "2019/11",
+		"publisher": "Atlantis Press",
+		"url_doi": "https://dx.doi.org/10.2991/ijcis.d.190930.003",
+		"url_code": "https://github.com/chasebk/code_OCRO_MLNN",
+		"url_latex": "https://github.com/chasebk/paper_OCRO_MLNN_2019",
+		"url_pdf": "https://www.atlantis-press.com/article/125921354.pdf"
+	},
+	"002": {
+		"id": 2,
+		"title": "Hybridization of Galactic Swarm and Evolution Whale Optimization for Global Search Problem",
+		"authors": "Binh Minh Nguyen, Trung Tran, Thieu Nguyen, Giang Nguyen",
+		"journal": "IEEE Access",
+		"ranking": "Q1",
+		"impact_factor": 4.640,
+		"cite_score": 4.96,
+		"pub_date": "2020/4/20",
+		"publisher": "IEEE",
+		"url_doi": "https://doi.org/10.1109/ACCESS.2020.2988717",
+		"url_code": "https://github.com/trung02012017/GSO_implementation",
+		"url_latex": "https://github.com/thieu1995/paper_isgo",
+		"url_pdf": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09072130.pdf"
+	},
+	"003": {
+		"id": 3,
+		"title": "nQSV-Net: A Novel Queuing Search Variant for Global Space Search and Workload Modeling",
+		"authors": "Binh Minh Nguyen, Bao Hoang, Thieu Nguyen, Giang Nguyen",
+		"journal": "Journal of Ambient Intelligence and Humanized Computing (JAIHC)",
+		"ranking": "Q1",
+		"impact_factor": 4.594,
+		"cite_score": 3.8,
+		"pub_date": "Accepted",
+		"publisher": "Springer",
+		"url_doi": "https://www.springer.com/journal/12652",
+		"url_code": "https://github.com/chasebk/code_IQSO_MLP",
+		"url_latex": "https://github.com/thieu1995/paper_iqso_mlp",
+		"url_pdf": "https://www.springer.com/journal/12652"
+	}
+}

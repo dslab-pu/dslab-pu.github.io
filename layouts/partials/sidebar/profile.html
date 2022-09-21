@@ -1,0 +1,11 @@
+{{- if default true .Params.isPage -}}
+{{- if .Site.Author }}
+{{- $layout := default "" .Site.Author.params.layout }}
+{{- if eq $layout "compact" }}
+  {{- partial "sidebar/profile/compact" . }}
+{{- else }}
+  {{- partial "sidebar/profile/default" . }}
+{{- end }}
+{{- end }}
+{{- end -}}
+
