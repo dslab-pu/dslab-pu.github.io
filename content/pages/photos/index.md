@@ -19,13 +19,15 @@ menu:
     weight: 7
 ---
 
+
+### Phenikaa University
+
 {{< gallery images="images/welcome/01.png,images/welcome/02.jpg,images/welcome/03.jpg,images/welcome/04.jpg,images/welcome/05.jpg,images/welcome/06.jpg" >}}
 
+### Lab's Facilities
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. A architecto delectus deserunt dolorum eos eveniet harum itaque iure laudantium magni minima nisi, non optio quibusdam quod reiciendis vel voluptate voluptatum!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ad cumque debitis dolorum ducimus maxime non quaerat temporibus ut? Beatae consequuntur ea est eum impedit molestias optio quas similique temporibus!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. A architecto delectus deserunt dolorum eos eveniet harum itaque iure laudantium magni minima nisi, non optio quibusdam quod reiciendis vel voluptate voluptatum!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ad cumque debitis dolorum ducimus maxime non quaerat temporibus ut? Beatae consequuntur ea est eum impedit molestias optio quas similique temporibus!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. A architecto delectus deserunt dolorum eos eveniet harum itaque iure laudantium magni minima nisi, non optio quibusdam quod reiciendis vel voluptate voluptatum!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ad cumque debitis dolorum ducimus maxime non quaerat temporibus ut? Beatae consequuntur ea est eum impedit molestias optio quas similique temporibus!
-Content.
+![Center](/images/photos/00.jpg?fit=256x256#center)
+
+![Center](/images/photos/01.jpg?fit=256x256#center)
+
+![Center](/images/photos/02.jpg?fit=256x256#center)
