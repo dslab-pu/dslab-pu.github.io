@@ -1,5 +1,33 @@
 [
   {
+    "year": 2022,
+    "data": [
+      {
+        "id": 6,
+        "title": "Hybridization of Galactic Swarm and Evolution Whale Optimization for Global Search Problem",
+        "magazine_type": "journal",
+        "ranking": "Q1",
+        "impact_factor": 4.640,
+        "cite_score": 4.96,
+        "url_doi": "https://doi.org/10.1109/ACCESS.2020.2988717",
+        "url_code": "https://github.com/trung02012017/GSO_implementation",
+        "url_pdf": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09072130.pdf",
+        "chicago_start": "Nguyen, Binh Minh, Trung Tran, Thieu Nguyen, and Giang Nguyen",
+        "chicago_end": "IEEE Access 8 (2020): 74991-75010."
+      },
+      {
+        "id": 5,
+        "title": "EO-CNN: an enhanced CNN model trained by equilibrium optimization for traffic transportation prediction",
+        "magazine_type": "conference",
+        "ranking": "B",
+        "url_doi": "https://doi.org/10.1016/j.procs.2020.09.075",
+        "url_code": "https://github.com/chasebk/EO_CNN",
+        "url_pdf": "https://www.sciencedirect.com/science/article/pii/S1877050920319724/pdf?md5=8d1fb2a32b266fc654a5fe1fd478efc7&pid=1-s2.0-S1877050920319724-main.pdf",
+        "chicago_start": "Nguyen, Thieu, Giang Nguyen, and Binh Minh Nguyen",
+        "chicago_end": "Procedia Computer Science 176 (2020): 800-809."
+      }]
+  },
+  {
     "year": 2021,
     "data": [
       {
@@ -60,34 +88,6 @@
         "url_pdf": "https://sat.hongo.wide.ad.jp/papers/thieu_annet2021.pdf",
         "chicago_start": "Nguyen, Thieu, Satoru Kobayashi, and Kensuke Fukuda.",
         "chicago_end": "In 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM), pp. 848-853. IEEE, 2021."
-      }]
-  },
-  {
-    "year": 2020,
-    "data": [
-      {
-        "id": 6,
-        "title": "Hybridization of Galactic Swarm and Evolution Whale Optimization for Global Search Problem",
-        "magazine_type": "journal",
-        "ranking": "Q1",
-        "impact_factor": 4.640,
-        "cite_score": 4.96,
-        "url_doi": "https://doi.org/10.1109/ACCESS.2020.2988717",
-        "url_code": "https://github.com/trung02012017/GSO_implementation",
-        "url_pdf": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09072130.pdf",
-        "chicago_start": "Nguyen, Binh Minh, Trung Tran, Thieu Nguyen, and Giang Nguyen",
-        "chicago_end": "IEEE Access 8 (2020): 74991-75010."
-      },
-      {
-        "id": 5,
-        "title": "EO-CNN: an enhanced CNN model trained by equilibrium optimization for traffic transportation prediction",
-        "magazine_type": "conference",
-        "ranking": "B",
-        "url_doi": "https://doi.org/10.1016/j.procs.2020.09.075",
-        "url_code": "https://github.com/chasebk/EO_CNN",
-        "url_pdf": "https://www.sciencedirect.com/science/article/pii/S1877050920319724/pdf?md5=8d1fb2a32b266fc654a5fe1fd478efc7&pid=1-s2.0-S1877050920319724-main.pdf",
-        "chicago_start": "Nguyen, Thieu, Giang Nguyen, and Binh Minh Nguyen",
-        "chicago_end": "Procedia Computer Science 176 (2020): 800-809."
       }]
   }
 ]

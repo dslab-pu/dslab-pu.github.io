@@ -8,8 +8,11 @@
         padding-left: 0;
         padding-right: 0;
     }
-    .person_job, .person_email {
+    .person_job, .person_email, .person_key_degree, .person_key_name {
         margin-bottom: 0;
+    }
+    .person_field {
+        margin-bottom: 2px;
     }
 </style>
 
@@ -23,8 +26,9 @@
                     <img class="card-img-top" src="{{.image}}" alt="Card image">
                 </a>
                 <div class="card-body card_people_content text-center">
-                    <p class="person_name fw-bold">{{.name}}</p>
-                    <p class="card-text person_job">{{.job}}</p>
+                    <p class="person_key_name fw-bold">{{.name}}</p>
+                    <p class="card-text person_key_job">{{.job}}</p>
+                    <p class="card-text person_key_degree">{{.degree}}</p>
                     <p class="person_email fst-italic">{{.email}}</p>
                 </div>
             </div>
@@ -42,7 +46,7 @@
                 </a>
                 <div class="card-body card_people_content text-center">
                     <p class="person_name fw-bold">{{.name}}</p>
-                    <p class="card-text person_job">{{.job}}</p>
+                    <p class="card-text person_job">{{.degree}}</p>
                     <p class="person_email fst-italic">{{.email}}</p>
                 </div>
             </div>
@@ -60,7 +64,8 @@
                 </a>
                 <div class="card-body card_people_content text-center">
                     <p class="person_name fw-bold">{{.name}}</p>
-                    <p class="person_degree">{{.degree}}</p>
+                    <p class="person_field">{{.field}}</p>
+                    <p class="person_university">{{.university}}</p>
                 </div>
             </div>
             {{ end }}

@@ -1,45 +1,23 @@
-- name: Nguyen Cong Luong, Ph.D
-  image: https://cdn1.iconfinder.com/data/icons/metro-ui-dock-icon-set--icons-by-dakirby/256/Netflix.png
-  website: https://www.hulu.com
-  email: luong.nguyencong@phenikaa-uni.edu.vn
-  job: Researcher, Group Leader
-  degree: Ph.D at Paris 13
+- name: Nguyen Van Quyen, M.Sc
+  image: /images/people/00-quyen.jpg
+  website: https://scholar.google.com/citations?user=fMG0GB4AAAAJ&hl=en
+  email: quyen.nguyenvan@phenikaa-uni.edu.vn
+  job: Researcher
+  degree: M.Sc at VNU, Vietnam
   achievements:
     - Master at HUST
     - Ph.D at Paris 13
     - Research Associate at NTU
     - Google Scholar
 
-- name: Mai Xuan Trang, Ph.D
-  image: https://apprecs.com/ios-meta/app-icons/256/376510438.jpg
+- name: Dang Van Bau, M.Sc
+  image: /images/people/04-bao.png
   website: https://www.netflix.com/fr/
-  email: trang.maixuan@phenikaa-uni.edu.vn
+  email: dangvanbau1999@gmail.com
   job: Researcher
-  degree: Ph.D at Kyoto University
+  degree: M.Sc at Phenikaa University, Vietnam
   achievements:
     - Master at KMITL
     - Ph.D at Kyoto University
     - Postdoc at Kyoto University
     - Google Scholar
-
-- name: Luong Van Thien, Ph.D
-  image: https://apprecs.com/ios-meta/app-icons/256/376510438.jpg
-  website: https://www.netflix.com/fr/
-  email: thien.luongvan@phenikaa-uni.edu.vn
-  job: Researcher
-  degree: Ph.D at Queen’s Belfast University, UK
-  achievements:
-    - B.E at HUST
-    - Ph.D at Queen’s Belfast University, UK
-    - Postdoc at University of Southampton, UK
-    - Google Scholar
-
-- name: Nguyen Thi Thanh Van, M.Sc
-  image: https://cdn1.iconfinder.com/data/icons/metro-ui-dock-icon-set--icons-by-dakirby/256/Netflix.png
-  website: https://www.netflix.com/fr/
-  email: van.nguyenthithanh@phenikaa-uni.edu.vn
-  job: Research Assistant
-  degree: M.Sc at MTA
-  achievements:
-    - B.E at HaUI
-    - M.Sc at MTA
