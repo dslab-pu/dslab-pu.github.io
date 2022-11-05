@@ -33,7 +33,7 @@
       - Science of deep learning
       - Scalable optimization methods
 
-title: test
+- title: test
   short_info: Find the optima efficiently and robustly!
   topics:
       - Stochastic and distributed optimization methods
